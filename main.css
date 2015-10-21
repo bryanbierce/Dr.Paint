@@ -1,0 +1,181 @@
+/* 
+Body
+*/
+html, body {
+    height: 100%;
+    background: #000000;
+    font-family: Poiret One;
+}
+
+/*
+Name
+*/
+#name-drpaint {
+  font-family: Poiret One; 
+  font-size: 95px;
+  font-weight: 800;
+}
+.name-D {
+  color: #DC1E02;
+}
+.name-r {
+  color: #5A92D6
+}
+.name-period {
+  color: #FFFFFF;
+}
+.name-P {
+  color: #FFD000;
+}
+.name-a {
+  color: #3EF09B;
+}
+.name-i {
+  color: #EC821E;
+}
+.name-n {
+  color: #A65FD1;
+}
+.name-t {
+  color: #5A92D6;
+}
+#name-design {
+    font-family: Poiret One;
+    font-weight: 300;
+    color: #FFFFFF;
+    font-size: 20px;
+    
+}
+.name-period2 {
+  font-size: 60px;
+  color: #FFFFFF;
+}
+.name-t {
+  
+}
+.name-t {
+  
+}
+.name-t {
+  
+}
+.name-t {
+  
+}
+.name-t {
+  
+}
+.name-t {
+  
+}
+/* 
+Home
+*/
+.home-body {
+  height:100%;
+  background: #000000;
+  background-size: cover;
+}
+.body-message {
+  text-align: center;
+  padding-top:100px;
+}
+.body-message h1 {
+  
+}
+.body-message hr {
+  color: #FFFFFF;
+}
+.body-message h4 {
+  font-family: Poiret One;
+  font-size: 20px;
+  color: #FFFFFF;
+  
+}
+
+/* 
+About
+*/
+.about-body {
+  height: 100%;
+  overflow: hidden;
+  background: #FFFFFF;
+}
+.about-text {
+  background: #FFFFFF;
+  height: 100%;
+}
+.about-head {
+  font-size: 60px;
+}
+.about-pic-col {
+  height: 100%;
+  background: #000000;
+  background-size: cover;
+  padding-left: 20px;
+  padding-right: 999em;
+  margin-right: -999em;
+  padding-bottom: 999em;
+  margin-bottom: -999em;
+}
+/* 
+Projects
+*/
+.projects-body {
+  height: 1100px;
+}
+.carousel {
+  height: 90%;
+}
+.carousel-inner {
+  height: 90%;
+}
+.carousel .item img {
+  max-height: 90%;
+  margin: auto;
+}
+.carousel,.item,.active{
+  height:80%;
+  margin: auto;
+}
+.carousel-inner{
+  height:90%;
+}
+.pic-work {
+  max-height: 80%;
+  margin: auto;
+}
+
+/* 
+Contact
+*/
+.contact-body {
+  height:100%;
+  text-align: center;
+}
+.jumbotron h2 {
+  font-size: 40px;
+}
+.contact-body a {
+  color: #000000;
+}
+
+.contact-link {
+  background-color: #000000;
+}
+.contact-link a:hover {
+  color: #FFFFFF;
+  }
+.contact-link a:visited {
+  color: #FFFFFF;
+  }
+.contact-link a:active {
+  color: #FFFFFF;
+  }
+.email-base {
+  color: #FFFFFF;
+}
+.footer {
+  color: #FFFFFF;
+  padding-bottom: 40px;
+}
